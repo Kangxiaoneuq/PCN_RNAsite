@@ -1,9 +1,6 @@
-name: PCN_RNAsite_env
+name: PCN_RNAsite
 channels:
-- pytorch
 - https://repo.anaconda.com/pkgs/main
-- pypi
-- defaults
 dependencies:
 - python=3.8.8
 - numpy=1.23.5
