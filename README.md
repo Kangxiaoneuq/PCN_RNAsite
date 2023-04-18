@@ -1,6 +1,5 @@
-A deep convolutional neural network-based model by integrating local and global features, sequence and structure properties is constructed to predict RNA-ligand binding sites.
-
-The benchmark datasets can be found in ./data_cache/, the codes for RLBind are available in ./src. And the results and model are saved in ./results. Furthermore, the demo and corresponding documentation files can be found in ./demo. See our paper for more details.
+A prediction method by fusing RNA sequence and structure information to identify small molecule-RNA binding sites. 
+The benchmark datasets can be found in ./data_cache/, the codes for PCN_RNAsite are available in ./src. And the results and model are saved in ./results. Furthermore, the demo and corresponding documentation files can be found in ./demo. See our paper for more details.
 
 
 Requirements
