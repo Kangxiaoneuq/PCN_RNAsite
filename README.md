@@ -1,5 +1,5 @@
 A prediction method by fusing RNA sequence and structure information to identify small molecule-RNA binding sites. 
-The  codes for PCN_RNAsite are available in ./src. And the demo and corresponding documentation files can be found in ./demo. See our paper for more details.
+The  codes for PCN_RNAsite and an example from dataset CS71 are available in ./src. And the demo and corresponding documentation files can be found in ./demo. See our paper for more details.
 
 
 Requirements
